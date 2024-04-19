@@ -1,16 +1,13 @@
-### Hi there 👋
+###  Hi, I'm Saksham Lamba
 
-<!--
-**lamba44/lamba44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studying Computer Science and Engineering at SRM Institute of Science and Technology, currently in my second year.
 
-Here are some ideas to get you started:
+💡 Passionate about crafting intriguing projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Currently delving into game development, exploring AIML, and diving into web development.
+
+🚀 Embarking on a GitHub journey to share, learn, and level up my skills. Always excited to upload and improve projects!
+
+🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/saksham-lamba-397b9924b/)!
+
+![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamba44&show_icons=true&theme=dark)
