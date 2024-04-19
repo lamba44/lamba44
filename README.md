@@ -10,4 +10,9 @@
 
 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/saksham-lamba-397b9924b/)!
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamba44&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lamba44&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamba44&layout=compact&theme=transparent&langs_count=8" />
+</a>
