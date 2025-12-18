@@ -13,19 +13,19 @@
 
 ---
 
-### About me (short)
+### About Me
 - 4th-year Computer Science student with strong foundations in algorithms, systems, and application design.  
 - Interned as Full Stack Web Developer and worked on performance & SEO improvements and production-ready APIs.  
 - I build web apps, deploy ML backed prototypes, and ship hackathon projects that place in finals.  
 
 ### Selected projects
-- **Aarogyam** — AI-powered telehealth web app (React, PostgreSQL, Python). Reached onsite finals at ABV-IITM Hackathon.  
-- **Rasta Dost** — Cab-booking platform; ranked top 33 out of 4200 teams at The Great Bengaluru Hackathon.  
-- **Korero** — Sign language to text translator (TensorFlow + OpenCV); 3rd place at Team SRM Hackathon (₹10,000 cash prize).  
+- **Aarogyam** : AI-powered telehealth web app (React, PostgreSQL, Python). Reached onsite finals at ABV-IITM Hackathon.  
+- **Rasta Dost** : Cab-booking platform; ranked top 33 out of 4200 teams at The Great Bengaluru Hackathon.  
+- **Korero** : Sign language to text translator (TensorFlow + OpenCV); 3rd place at Team SRM Hackathon (₹10,000 cash prize).  
 
-- [**Quamin.in**](https://quamin.in/) — Production website built from scratch for an early-stage startup; worked on full-stack features, performance optimizations, and SEO improvements.  
-- [**Dantvilla.com**](https://www.dantvilla.com/) — Dental clinic website focused on clean UI, responsive design, and lead generation.  
-- [**Enchantment Optimizer**](https://enchantmentoptimization.vercel.app/) — Minecraft enchantment optimization tool to minimize XP usage using optimal anvil ordering logic.
+- [**Quamin.in**](https://quamin.in/) : Production website built from scratch for an early-stage startup; worked on full-stack features, performance optimizations, and SEO improvements.  
+- [**Dantvilla.com**](https://www.dantvilla.com/) : Dental clinic website focused on clean UI, responsive design, and lead generation.  
+- [**Enchantment Optimizer**](https://enchantmentoptimization.vercel.app/) : Minecraft enchantment optimization tool to minimize XP usage using optimal anvil ordering logic.
 
 
 ---
