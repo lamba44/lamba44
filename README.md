@@ -8,7 +8,7 @@
 <div align="center">
   <!-- GitHub profile cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamba44&theme=radical" alt="profile-details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lamba44&theme=radical" alt="productive-time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lamba44&theme=radical" alt="Github Stats" />
 </div>
 
 ---
@@ -35,10 +35,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamba44&layout=compact&theme=midnight-purple&hide_title=true" width="340" alt="Top Languages" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lamba44&theme=radical" width="340" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lamba44&show_icons=true&theme=ayu-mirage&hide_title=true" width="420" alt="GitHub Stats" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lamba44&theme=radical&utcOffset=5" width="340" alt="GitHub Activity" />
       </td>
     </tr>
   </table>
